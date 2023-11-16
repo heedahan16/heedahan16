@@ -1,6 +1,7 @@
 ### Hi, HEE 👋
-
-<img width='200px'src='https://github.com/heedahan16/heedahan16/blob/main/test.jpg'>
+<div align=center>
+<img width='200px'src='https://github.com/heedahan16/heedahan16/blob/main/test.jpg? raw=true'/>
+</div>
 
 <!--
 **heedahan16/heedahan16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
